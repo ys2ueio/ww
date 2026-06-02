@@ -1293,6 +1293,6 @@ end
 
 loadConfig()
 refreshUIToggles()
-print("[Yslem Hub] Chargé avec succès")
+print("[Yslem Hub] Chargé avec succès"))()
 
 
